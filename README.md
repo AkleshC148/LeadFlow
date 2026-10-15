@@ -298,7 +298,3 @@ This project was built with AI assistance, as the assessment encouraged.
 - No pagination on the lead list.
 - No lead deletion, and no password reset or email verification.
 - Follow-up reminders are visual only. There are no push or email notifications.
-
-## License
-
-Created for a coding assessment. Add a license here if you decide to open-source it.
